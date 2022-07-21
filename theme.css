@@ -1,0 +1,70 @@
+/* Main Branding Colours for TwatLabs */
+
+* {
+    /* Lights */
+
+    --light-max: #fff;
+
+    --light-base: #7C7C7C;
+    --light-dim: #6F6F6F;
+    --light-dark: #505252;
+
+    --light-alt-base: #D3D3D3;
+    --light-alt-dim: #D3D3D3;
+    --light-alt-dark: #B9B9B9;
+
+
+    /* Darks */
+
+    --dark-max: #000;
+
+    --dark-bright: #444646;
+    --dark-base: #3D3D3D;
+    --dark-dim: #323232;
+    --dark-dark: #1D1D1D;
+
+    --dark-alt-bright: #747271;
+    --dark-alt-base: #666666;
+    --dark-alt-dim: #545454;
+    --dark-alt-dark: #313030;
+
+
+    /* Primary Col */
+
+    --primary-light: #7DD0D0;
+    --primary-base: #4FB4B4;
+    --primary-dim: #179090;
+    --primary-dark: #077777;
+
+
+    /* Secondary Col */
+
+    --secondary-light: #D081D6;
+    --secondary-base: #B754BE;
+    --secondary-dim: #951B9D;
+    --secondary-dark: #7A0982;
+
+
+    /* Success Col */
+
+    --success-light: #88E29C;
+    --success-base: #5BD075;
+    --success-dim: #1DB53F;
+    --success-dark: #099628;
+
+
+    /* Warning Col */
+
+    --warning-light: #FFF799;
+    --warning-base: #FFF470;
+    --warning-dim: #F0E027;
+    --warning-dark: #C6B70C;
+
+
+    /* Failure Col */
+
+    --failure-light: #FFA399;
+    --failure-base: #FF7E70;
+    --failure-dim: #F03A27;
+    --failure-dark: #C61E0C;
+}
